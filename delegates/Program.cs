@@ -11,5 +11,11 @@ namespace delegates
         static void Main(string[] args)
         {
         }
+
+
+    }
+    class MyClass
+    {
+
     }
 }
